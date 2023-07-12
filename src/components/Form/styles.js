@@ -50,10 +50,11 @@ export let Button = styled.button`
   border-radius: 5px;
   cursor: pointer;
   color: white;
-  background-color: teal;
+  background-color: #006df0;
   transition: .3s;
 
   &:hover {
     transform: scale(1.1);
+    background-color: #003f8a;
   }
 `;
